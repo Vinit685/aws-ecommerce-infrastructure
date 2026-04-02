@@ -4,6 +4,14 @@
 
 <br>
 
+## ✅ Final Output
+
+> Application successfully served via the Application Load Balancer DNS endpoint.
+
+![Final Output](docs/screenshots/final-output.png)
+
+<br>
+
 ## AWS Services Used
 
 | Layer | Service | Role |
